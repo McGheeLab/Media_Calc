@@ -1,0 +1,18 @@
+Name,Type,Desired Concentration,Desired Unit,Dilution Factor
+HEPES-buffered DMEM/F12,Base Media,,na,1
+Fetal Bovine Serum (FBS),Serum,,,10
+Gentamicin,Additive,50,ug/mL,
+Streptomycin,Additive,100,ug/mL,
+Noggin,Additive,100,ng/mL,
+KGF,Additive,50,ng/mL,
+EGF,Additive,50,ng/mL,
+R-spondin I,Additive,500,ng/mL,
+A83-01,Additive,500,nM,
+SB202190,Additive,10,uM,
+[Leu15]-Gastrin I,Additive,10,nM,
+Glucagon,Additive,1,uM,
+Ascorbate-2-phosphate,Additive,1,mM,
+Nicotinamide,Additive,10,mM,
+Insulin/Transferrin/Selenium (ITS),Additive,,,100
+AlbuMAX,Additive,,,100
+Wnt3a,Additive,50,ng/mL,
