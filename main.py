@@ -2,7 +2,7 @@
 
 import os  # Import os module to handle file paths
 from components import components_stock
-from mediaCalc2 import MediaPreparationHelper
+from mediaCalc import MediaPreparationHelper
 
 def main():
     # Specify the recipe file and final volume
