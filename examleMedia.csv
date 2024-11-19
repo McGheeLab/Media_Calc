@@ -1,0 +1,16 @@
+Name,Dilution Factor,Desired Concentration,Desired Unit
+Gentamicin,,50,ug/mL
+Streptomycin,,100,ug/mL
+Insulin/Transferrin/Selenium (ITS),100,,
+AlbuMAX,,1,mg/mL
+Ascorbate-2-phosphate,,200,uM
+Nicotinamide,,10,mM
+SB202190,,10,uM
+KGF,,50,ng/mL
+EGF,,50,ng/mL
+Noggin,,100,ng/mL
+R-spondin I,,1,ug/mL
+A83-01,,500,nM
+[Leu15]-Gastrin I,,10,nM
+Glucagon,,14,nM
+Wnt3a,,50,ng/mL
