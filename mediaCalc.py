@@ -295,14 +295,14 @@ class MediaPreparationHelper:
                 row_cells[0].text = comp['name']
                 initial_weight = comp['initial_weight']
                 initial_weight_unit = comp['initial_weight_unit']
-                row_cells[1].text = f"{initial_weight:.2g} {initial_weight_unit}"
+                row_cells[1].text = f"{initial_weight:.2f} {initial_weight_unit}"
                 stock_concentration = comp['stock_concentration']
                 stock_unit = comp['stock_unit']
-                row_cells[2].text = f"{stock_concentration:.2g} {stock_unit}"
+                row_cells[2].text = f"{stock_concentration:.2f} {stock_unit}"
                 row_cells[3].text = comp['solvent']
                 volume_ml = comp.get('stock_volume_ml', 'N/A')
                 if volume_ml != 'N/A':
-                    row_cells[4].text = f"{volume_ml:.2g} mL"
+                    row_cells[4].text = f"{volume_ml:.2f} mL"
                 else:
                     row_cells[4].text = 'N/A'
                 cost_per_ml = comp.get('cost_per_ml')

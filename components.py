@@ -11,6 +11,7 @@ components_stock = [
         'solvent': 'Water',
         'cost': 44.25,                      # Cost in USD
         'catalog_number': 'ICN1676045',    # Catalog number
+        'purpose': 'Antibiotic',
     },
     {
         'name': 'Streptomycin',
@@ -22,6 +23,7 @@ components_stock = [
         'solvent': 'Water',
         'cost': 29.56,                      # Cost in USD
         'catalog_number': '15140122',      # Catalog number
+        'purpose': 'Antibiotic',
     },
     {
         'name': 'Noggin',
@@ -33,6 +35,7 @@ components_stock = [
         'solvent': 'PBS with 0.1% BSA',
         'cost': 202.13,                      # Cost in USD
         'catalog_number': '103872-972',      # Catalog number
+        'purpose': 'A growth factor that inhibits BMP signaling, supporting stem cell differentiation.',
     },
     {
         'name': 'Ascorbate-2-phosphate',
@@ -44,6 +47,7 @@ components_stock = [
         'solvent': 'Water',
         'cost': 94.70,                      # Cost in USD
         'catalog_number': 'A8960-5g',       # Catalog number
+        'purpose': 'A stable form of ascorbic acid that promotes collagen synthesis and cell growth.',
     },
     {
         'name': 'Nicotinamide',
@@ -55,6 +59,7 @@ components_stock = [
         'solvent': 'Water',
         'cost': 116.58,                      # Cost in USD
         'catalog_number': 'N0636-500G',     # Catalog number
+        'purpose': 'A form of vitamin B3 that supports cell growth and metabolism and supports DNA repair and cell viability.',
     },
     {
         'name': 'SB202190',
@@ -66,6 +71,7 @@ components_stock = [
         'solvent': 'DMSO',
         'cost': 138,                      # Cost in USD
         'catalog_number': 'S7067-5MG',     # Catalog number
+        'purpose': 'A selective inhibitor of p38 MAP kinase that promotes self-renewal and inhibits differentiation.',
     },
     {
         'name': 'A83-01',
@@ -77,6 +83,7 @@ components_stock = [
         'solvent': 'DMSO',
         'cost': 96.10,                      # Cost in USD
         'catalog_number': 'SML0788-5MG',   # Catalog number
+        'purpose': 'An inhibitor of TGF-beta signaling that promotes self-renewal and inhibits differentiation.',
     },
     {
         'name': 'AlbuMAX',
@@ -88,6 +95,7 @@ components_stock = [
         'solvent': 'Water',
         'cost': 138,                      # Cost in USD
         'catalog_number': '11020021',     # Catalog number
+        'purpose': 'A serum albumin supplement that supports cell growth and viability.',
     },
     {
         'name': 'KGF',
@@ -99,6 +107,7 @@ components_stock = [
         'solvent': '0.1% BSA in PBS',
         'cost': 195,                      # Cost in USD
         'catalog_number': 'CYT-219',       # Catalog number
+        'purpose': 'A growth factor that promotes epithelial cell growth and wound healing.',
     },
     {
         'name': 'R-spondin I',
@@ -110,6 +119,7 @@ components_stock = [
         'solvent': 'PBS',
         'cost': 953,                      # Cost in USD
         'catalog_number': '4645-RS-100/CF',       # Catalog number
+        'purpose': 'A growth factor that enhances Wnt signaling and supports stem cell self-renewal and proliferation.',
     },
     {
         'name': 'EGF',
@@ -121,6 +131,7 @@ components_stock = [
         'solvent': 'PBS',
         'cost': 147,                      # Cost in USD
         'catalog_number': '236-EG-200',       # Catalog number
+        'purpose': 'A growth factor that promotes cell growth and proliferation.',
     },
     {
         'name': '[Leu15]-Gastrin I',
@@ -132,6 +143,7 @@ components_stock = [
         'solvent': 'Water',
         'cost': 424,                      # Cost in USD
         'catalog_number': '3006/1',     # Catalog number
+        'purpose': 'A peptide hormone that promotes cell growth and differentiation.',
     },
     {
         'name': 'Insulin',
@@ -143,6 +155,7 @@ components_stock = [
         'solvent': '0.01 N HCl',
         'cost': 231,                      # Cost in USD
         'catalog_number': '11376497001',     # Catalog number
+        'purpose': 'A growth factor that promotes cell growth and supports glucose uptake and energy metabolism.',
     },
     {
         'name': 'Glucagon',
@@ -154,6 +167,7 @@ components_stock = [
         'solvent': 'Water',
         'cost': 292.36,                      # Cost in USD
         'catalog_number': 'G2044-5MG',     # Catalog number
+        'purpose': 'A peptide hormone that promotes glycogen breakdown and glucose release.',
     },
     {
         'name': 'Wnt3a',
@@ -165,6 +179,7 @@ components_stock = [
         'solvent': 'PBS',
         'cost': 434,                      # Cost in USD
         'catalog_number': '5036-WN-010',     # Catalog number
+        'purpose': 'A growth factor that enhances Wnt signaling and supports stem cell self-renewal and proliferation.',
     },
     # Existing components (antibiotics) with pre-made stock solutions
     {
